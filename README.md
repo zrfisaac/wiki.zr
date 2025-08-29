@@ -1,19 +1,21 @@
-# 📚 Bem-vindo à minha Wiki!
+# 📚 欢迎来到我的维基！
 
-> *Última atualização: 2025-07-24*
+> *上次更新日期: 2025-07-24*
 
-Seja bem-vindo à minha wiki pessoal!  
-Aqui você vai encontrar anotações, referências, tutoriais, ideias de projetos e tudo mais que eu considerar útil no meu dia a dia como desenvolvedor, entusiasta de tecnologia e curioso por natureza.
+欢迎来到我的个人维基！
 
-Sinta-se à vontade para explorar os conteúdos no menu lateral.  
-A wiki está em constante evolução, então sempre tem algo novo por aqui!
+在这里，你会找到我作为一名开发者、技术爱好者和天生好奇者，在日常生活中认为有用的所有笔记、参考资料、教程、项目构想等。
 
----
+请随意探索侧边菜单中的内容。
 
-💡 **Dica:** Use a busca no topo da página para encontrar rapidamente o que precisa.
+这个维基在不断更新中，所以总能在这里找到新东西！
 
 ---
 
-> ⚠️ **Aviso:** Esta wiki é um bloco de anotações pessoal.  
-> Não me responsabilizo por informações incorretas, desatualizadas ou mal explicadas.  
-> Muitos textos são rascunhos, ideias soltas ou experimentos — use por sua conta e risco!
+💡 **提示:** 使用页面顶部的搜索框可以快速找到你需要的内容。
+
+---
+
+> ⚠️ **声明:** 这个维基是我个人的笔记。
+> 我不对不正确、过时或解释不清楚的信息负责。
+> 许多内容都是草稿、零散的想法或实验——请自行承担使用风险！
